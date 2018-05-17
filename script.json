@@ -1,0 +1,13 @@
+{
+    "name": "Auto Bloody and KO",
+    "script": "AutoBloodyAndKO.js",
+    "version": "0.1",
+    "previousversions": [],
+    "description": "Will automatically mark targets with a red dot, or red ex, if their HP (Bar3) go below half or hit zero.",
+    "authors": "Dave D.",
+    "roll20userid": "76",
+    "useroptions": [],
+    "dependencies": [],
+    "modifies": {},
+    "conflicts": []
+}
