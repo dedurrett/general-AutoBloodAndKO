@@ -4,7 +4,7 @@
     "version": "0.1",
     "previousversions": [],
     "description": "Automatically mark targets with a red dot, or red ex, if their HP (Bar3) go below half or hits zero.",
-    "authors": "Dave D.",
+    "authors": "Davemania",
     "roll20userid": "76",
     "useroptions": [],
     "dependencies": [],
